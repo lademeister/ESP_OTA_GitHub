@@ -567,7 +567,7 @@ void setup() {
   Serial.println();
   Serial.println("================================================================================");
   Serial.println("|                                                                              |");
-  Serial.println("|                  Welcome to the ESP GitHub OTA Update TEST                   |");
+  Serial.println("|                  Welcome to the ESP GitHub OTA RFMonitor Update TEST         |");
   Serial.println("|                =============================================                 |");
   Serial.print("|    Version:    ");
   Serial.print(GHOTA_CURRENT_TAG);
